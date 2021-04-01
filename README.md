@@ -1,6 +1,6 @@
 # Proyecto de prueba
 
-- Este esun proyecto, que estoy utilizando para subir mi primer proyecto en github
+- Este es mi primer proyecto subido a github, es algo genial. ya que es mi hola mundo.
 
 ```csharp
 Console.WriteLine("Este es mi hola mundo en github");
